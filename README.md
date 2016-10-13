@@ -1,8 +1,6 @@
 # CYarn
 
-> 使用 cnpm 源的 Yarn。
-
-Forked from [Yarn](https://github.com/yarnpkg/yarn).
+> 使用 cnpm 源的 Yarn
 
 Yarn 是一个快速、可靠、安全的 JavaScript 依赖管理工具。
 
